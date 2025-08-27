@@ -26,7 +26,11 @@
 
 ## 📦 Запуск проекта
 
-### 1. Клонировать репозиторий
+- **Клонировать репозиторий**
 ```bash
-git clone https://github.com/username/college-schedule-bot.git
-cd college-schedule-bot
+git clone https://github.com/Ernest-99/tgBot-CollegeSchedule.git
+```
+- **Создать бота в ТГ**
+- **Создать БД в PostgreSQL**
+- **Задать свои данные в environment variables или установить напрямую в application.properties**
+- **Запустить main класс TelegramJavaBotApplication**
